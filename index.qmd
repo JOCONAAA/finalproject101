@@ -6,4 +6,6 @@ about:
     - icon: github
       text: "GitHub Project"
       href: https://github.com
+      
+> Please click **"About"** in the top navigation bar to view detailed member introductions and our team story!
 ---
