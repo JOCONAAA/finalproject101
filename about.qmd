@@ -4,6 +4,11 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+
+
+### Tammy Li  (Li, Ting-Hsuan)
+
+- **Major**: Public Finance, NCCU
+- **Hobbies**: Traveling, Exploring cafés & restaurants
+
+
